@@ -1,0 +1,33 @@
+:root{
+    --color-blue: #425a7d;
+    --color-blue-light: #a0c0d6;
+    --color-white: #e5fafc;
+    --color-orange: #df7356;
+    --color-dark: #2a3240;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    min-width: 375PX;
+}
+
+
+.bg-blue{
+    background-color: var(--color-blue);
+}
+.bg-blue-light{
+    background-color: var(--blue-light);
+}
+.bg-white{
+    background-color: var(--color-white);
+}
+.bg-orange{
+    background-color: var(--color-orange);
+}
+.bg-blue-dark{
+    background-color: var(--color-dark);
+}
