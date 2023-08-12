@@ -15,12 +15,16 @@ body{
     min-width: 375PX;
 }
 
+.icon{
+    max-width: 24px;
+    max-height: 24px;
+}
 
 .bg-blue{
     background-color: var(--color-blue);
 }
 .bg-blue-light{
-    background-color: var(--blue-light);
+    background-color: var(--color-blue-light);
 }
 .bg-white{
     background-color: var(--color-white);
@@ -30,4 +34,19 @@ body{
 }
 .bg-blue-dark{
     background-color: var(--color-dark);
+}
+.blue{
+    color: var(--color-blue);
+}
+.blue-light{
+    color: var(--color-blue-light);
+}
+.white{
+    color: var(--color-white);
+}
+.orange{
+    color: var(--color-orange);
+}
+.dark{
+    color: var(--color-dark);
 }

@@ -1,0 +1,42 @@
+[
+    {
+        "corte": "oversize",
+        "talle": "xxl",
+        "precio": "2500",
+        "material": "Algodon",
+        "color": "negro",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/704/127/products/diseno-sin-titulo-211-059dcb0bfc766b751716637008467141-480-0.webp",
+        "genero": "M",
+        "cantidad": 2
+    },
+    {
+        "corte": "oversize",
+        "talle": "xxl",
+        "precio": "2500",
+        "material": "Algodon",
+        "color": "negro",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/704/127/products/pack-x3-blanco1-9b6aab06e623bedcf916862313498623-480-0.webp",
+        "genero": "M",
+        "cantidad": 2
+    },
+    {
+        "corte": "oversize",
+        "talle": "xxl",
+        "precio": "2500",
+        "material": "Algodon",
+        "color": "negro",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/704/127/products/pack-x3-colores1-7fcf760bf3369f430e16862360725555-480-0.webp",
+        "genero": "M",
+        "cantidad": 2
+    },
+    {
+        "corte": "oversize",
+        "talle": "xxl",
+        "precio": "2500",
+        "material": "Algodon",
+        "color": "negro",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/704/127/products/basicas-combo-x101-facba1df5b8d3b28c716862445069948-480-0.webp",
+        "genero": "M",
+        "cantidad": 2
+    }
+]

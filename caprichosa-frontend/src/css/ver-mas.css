@@ -1,0 +1,8 @@
+.img-vermas{
+    max-width: 400px;
+    max-height: 400px;
+}
+
+main {
+    min-height: calc(100vh - 215px);
+}
